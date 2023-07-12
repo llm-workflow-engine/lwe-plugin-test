@@ -14,7 +14,7 @@ with open(path.join(FILE_DIR, 'lwe_plugin_test', 'version.py')) as f:
     version = re.match(r'^__version__ = "([\w\.]+)"$', f.read().strip())[1]
 
 setup(
-    name="lwe-plugin-test-2",
+    name="lwe-plugin-test",
     version=version,
     author="Chad Phillips",
     author_email="chad@apartmentlines.com",
