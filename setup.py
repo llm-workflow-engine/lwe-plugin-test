@@ -18,10 +18,10 @@ setup(
     version=version,
     author="Chad Phillips",
     author_email="chad@apartmentlines.com",
-    description="A test plugin for ChatGPT Wrapper",
+    description="LWE plugin: Test plugin",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mmabrouk/chatgpt-wrapper",
+    url="https://github.com/llm-workflow-engine/lwe-plugin-test",
     packages=find_packages(),
     install_requires=install_requirement,
     classifiers=[
