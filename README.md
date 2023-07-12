@@ -48,6 +48,7 @@ plugins:
 
 From a running LWE shell:
 
-```bash
+```
 /test Hello World!
+[LWE Plugin] Test: Hello World!
 ```
