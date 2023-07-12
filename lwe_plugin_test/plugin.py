@@ -23,7 +23,7 @@ class Test(Plugin):
         """
         return {
             'response': {
-                'prefix': 'Test',
+                'prefix': '[LWE Plugin] Test',
             },
         }
 
