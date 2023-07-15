@@ -2,6 +2,9 @@ from lwe.core.plugin import Plugin
 import lwe.core.util as util
 
 class Test(Plugin):
+    """
+    Test plugin, echos back the command you give it
+    """
 
     def incompatible_backends(self):
         """
